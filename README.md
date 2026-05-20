@@ -100,6 +100,8 @@ The application predicts whether the passenger would likely survive based on lea
 ## Screenshot
 - Survived Output
 ![Titanic Simulation](titanic_output.png)
+
+- Death Output
 ![Titanic Simulation](titanic_output2.png)
 
 
