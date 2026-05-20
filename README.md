@@ -97,6 +97,11 @@ python main.py
 The application predicts whether the passenger would likely survive based on learned historical patterns.
 
 ---
+## Screenshot
+- Survived Output
+![Titanic Simulation](titanic_output.png)
+![Titanic Simulation](titanic_output2.png)
+
 
 ## Learning Objectives
 
